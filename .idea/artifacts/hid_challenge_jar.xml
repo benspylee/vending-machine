@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hid-challenge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hid_challenge_jar</output-path>
+    <root id="archive" name="hid-challenge.jar">
+      <element id="module-output" name="hid-challenge" />
+    </root>
+  </artifact>
+</component>
